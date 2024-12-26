@@ -73,7 +73,6 @@ public class Lab4P1_JosueRivera {
                     sumaAuxiliar += numAuxiliar;
                 }
             }
-            System.out.println(sumaAuxiliar);
             if(sumaAuxiliar < indice || j == 0) {
                 posicionS = j;
                 indice = sumaAuxiliar;
